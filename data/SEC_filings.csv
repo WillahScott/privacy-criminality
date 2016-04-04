@@ -1,0 +1,156 @@
+,Transaction Date,Reported Date,Company,Symbol,Insider Relationship,Shares Traded,Average Price,Total Amount,SharesOwned,Filing
+0,2015-04-13Purchase,2015-04-153:56 pm,Century Bancorp Inc,CNBKA,Sloane Barry RCEO and PresidentDirector,1,$83.75,$84,"3,111(DirectIndirect)",View
+1,2015-04-13Purchase,2015-04-153:54 pm,Century Bancorp Inc,CNBKA,Evangelista Paul AExecutive Vice President,5,$66.57,$333,"5,542(Direct)",View
+2,2015-04-13Purchase,2015-04-153:51 pm,Iheartmedia Inc.,IHRT,Pittman Robert WChief Executive OfficerDirector,2450,$6.999,"$17,148","973,080(IndirectDirect)",View
+3,2015-03-16Purchase,2015-04-153:48 pm,Netsol Technologies Inc,NTWK,Burki ShahidDirector,7531,$5.527,"$41,627","54,500(IndirectDirect)",View
+4,2015-04-13Purchase,2015-04-153:46 pm,Iheartmedia Inc.,IHRT,"Bressler Richard JPresident, COO and CFODirector",2450,$6.999,"$17,148","955,080(Direct)",View
+5,2015-04-15Purchase,2015-04-153:36 pm,Consolidated Edison Inc,ED,"Mcavoy JohnChairman, President & CEODirector",34,$60.81,"$2,068","12,634(IndirectDirect)",View
+6,2015-04-14Sale,2015-04-153:35 pm,Village Super Market Inc,VLGEA,Crystal StevenDirector10% Owner,2000,$34.75,"$69,500","944,066(Direct)",View
+7,2015-04-13Sale,2015-04-153:14 pm,Pc Connection Inc,PCCC,Gallup PatriciaChairman & Chief Admin OfficerDirector10% Owner,6250,$26.06,"$162,894","7,119,094(IndirectDirect)",View
+8,2015-04-15Purchase,2015-04-152:58 pm,Investors Heritage Capital Corp,IHRC,Tap & CoOther,200,$21.2,"$4,240","353,323(Direct)",View
+9,2015-04-14Purchase,2015-04-152:58 pm,State Auto Financial Corp,STFC,State Automobile Mutual Insurance Co10% Owner,3626,$24.93,"$90,399","25,827,502(Direct)",View
+10,2015-04-13Sale,2015-04-152:57 pm,Perrigo Co Plc,PRGO,"Kingma Todd WExecutive VP, General Counsel",1300,$198.4,"$257,972","10,664(IndirectDirect)",View
+11,2015-04-14Sale,2015-04-152:41 pm,Memorial Resource Development Corp.,MRD,Eckerman Steven WayneOther,100000,$18.56,"$1,856,430","954,010(Direct)",View
+12,2015-04-13Purchase,2015-04-152:37 pm,Insignia Systems Inc,ISIG,Air T Inc10% Owner,5400,$3.038,"$16,406","1,430,284(Direct)",View
+13,2015-04-15Sale,2015-04-152:31 pm,Littelfuse Inc,LFUS,Grillo AnthonyDirector,500,$97.1,"$48,550","68,054(Direct)",View
+14,2015-04-14Sale,2015-04-152:29 pm,Kirkland's Inc,KIRK,Kirkland CarlDirector,138100,$23.01,"$3,177,681","832,273(Direct)",View
+15,2015-04-14Sale,2015-04-152:29 pm,Sierra Bancorp,BSRR,Woods Gordon TDirector,2500,$16.5,"$41,250","28,500(Direct)",View
+16,2015-04-13Sale,2015-04-152:27 pm,Net Element Inc.,NETE,Abdouv NurlanBeno Distribution LtdOther,2518688,$2,"$5,037,376","4,538,737(Indirect)",View
+17,2011-08-16Purchase,2015-04-152:25 pm,Tcw Strategic Income Fund Inc,TSI,Rivelle TadPortfolio Manager,10079,$5.39,"$54,326","526,466(DirectIndirect)",View
+18,2015-04-14Purchase,2015-04-152:22 pm,Zweig Total Return Fund Inc,ZTR,Neel CarltonSVP & Portfolio Manager,7000,$13.69,"$95,830","65,868(IndirectDirect)",View
+19,2015-04-09Sale,2015-04-152:14 pm,Sierra Bancorp,BSRR,Woods Gordon TDirector,2500,$16.6,"$41,500","31,000(Direct)",View
+20,2015-04-13Sale,2015-04-152:09 pm,Mattress Firm Holding CORP.,MFRM,Fiorentino David ADirector,6000,$68.51,"$411,041","6,500(Direct)",View
+21,2015-02-10Sale,2015-04-152:08 pm,Sierra Bancorp,BSRR,Woods Gordon TDirector,1000,$16.6,"$16,600","33,500(Direct)",View
+22,2015-02-09Sale,2015-04-152:02 pm,Sierra Bancorp,BSRR,Woods Gordon TDirector,2000,$16.6,"$33,200","34,500(Direct)",View
+23,2015-02-06Sale,2015-04-151:53 pm,Sierra Bancorp,BSRR,Woods Gordon TDirector,2000,$16.6,"$33,200","36,500(Direct)",View
+24,2015-04-13Sale,2015-04-151:29 pm,Synchronoss Technologies Inc,SNCR,Lazzaro Nicholas PEVP & Pres of Emerging Markets,1000,$49.41,"$49,410","45,217(Direct)",View
+25,2015-04-13Purchase,2015-04-151:19 pm,International Baler Corp,IBAL,Avis Industrial CorpBoren Leland E10% Owner,1000,$1.998,"$1,998","2,633,896(IndirectDirect)",View
+26,2015-04-15Sale,2015-04-1512:53 pm,Mead Johnson Nutrition Co,MJN,Golsby Stephen WDirector,5000,$101.3,"$506,550","18,326(Direct)",View
+27,2015-04-14Sale,2015-04-1512:41 pm,Memorial Resource Development Corp.,MRD,Nabors JohnOther,21513,$19,"$408,747","195,262(Direct)",View
+28,2015-04-15Purchase,2015-04-1512:29 pm,York Water Co,YORW,Waters Ernest JDirector,3,$27.28,$82,524(Direct),View
+29,2015-04-15Purchase,2015-04-1512:23 pm,Hemispherx Biopharma Inc,HEB,"Equels Thomas K.CFO, Vice Chairman, SecretaryDirector",100000,$0.2254,"$22,540","1,105,444(Direct)",View
+30,2015-04-15Purchase,2015-04-1512:22 pm,York Water Co,YORW,Osman Jeffrey SDirector,2,$26.22,$52,"3,392(DirectIndirect)",View
+31,2015-04-15Purchase,2015-04-1512:11 pm,York Water Co,YORW,Newcomer Robert PDirector,20,$24.61,$492,"3,148(Direct)",View
+32,2015-04-13Purchase,2015-04-1512:05 pm,Firsthand Technology Value Fund Inc.,SVVC,Landis Kevin MPresidentDirector,21000,$14.37,"$301,779","152,986(Direct)",View
+33,2015-04-14Purchase,2015-04-1512:04 pm,Hasco Medical Inc.,HASC,Compton Harold FDirectorOther10% Owner,32500,$0.02392,$778,"215,519,040(IndirectDirect)",View
+34,2015-04-15Purchase,2015-04-1512:02 pm,York Water Co,YORW,Gang Michael WDirector,63,$23.53,"$1,482","10,482(Direct)",View
+35,2015-04-15Sale,2015-04-1511:56 am,Macy's Inc.,M,Roche Joyce MDirector,10000,$68.13,"$681,301","11,992(Direct)",View
+36,2015-04-14Sale,2015-04-1511:53 am,Kmg Chemicals Inc,KMG,Hatcher David L10% Owner,3000,$29.79,"$89,370","1,999,997(Direct)",View
+37,2014-09-15Sale,2015-04-1511:51 am,Mind Solutions Inc.,VOIS,Driscoll Kerry MChief Executive OfficerDirector10% Owner,6315742,$0.0021,"$13,263","113,684,256(Direct)",View
+38,2014-12-15Sale,2015-04-1511:39 am,Spar Group Inc,SGRP,Franco PatriciaSenior Vice President,252750,$1.41,"$356,377","272,381(Direct)",View
+39,2015-04-13Sale,2015-04-1511:29 am,Fuller H B Co,FUL,"Keenan Timothy JVP, Gen. Counsel & Corp. Sec.",18133,$43.66,"$791,701","41,797(IndirectDirect)",View
+40,2015-04-14Purchase,2015-04-1511:14 am,Crexendo Inc.,CXDO,Mihaylo Steven GChief Executive OfficerDirector10% Owner,1000,$2.1,"$2,100","6,772,000(Indirect)",View
+41,2015-04-09Purchase,2015-04-1511:13 am,Pcs Edventures Com Inc,PCSV,Hackett Todd RaymondCO-CEODirector10% Owner,50000,$0.07,"$3,500","24,528,418(Direct)",View
+42,2015-04-14Purchase,2015-04-1511:05 am,Gdl Fund,GDL,Gabelli Mario JDirectorOther,2100,$10.35,"$21,745","1,283,485(IndirectDirect)",View
+43,2015-04-13Sale,2015-04-1511:03 am,Village Super Market Inc,VLGEA,Estate Of Perry Sumas10% Owner,21732,$33.37,"$725,253","1,003,318(Direct)",View
+44,2015-04-13Sale,2015-04-1510:49 am,Marcus Corp,MCS,"Kissinger Thomas FSr Exec VP, Gen Counsel & Secy",4299,$21.47,"$92,308","50,412(IndirectDirect)",View
+45,2015-04-14Sale,2015-04-1510:45 am,Apache Corp,APA,Olson W KreggExec. Vice President,3600,$68.69,"$247,302","45,297(Direct)",View
+46,2015-04-14Purchase,2015-04-1510:44 am,First Financial Bancorp,FFBC,Rahe Maribeth SDirector,432,$17.52,"$7,567","9,127(DirectIndirect)",View
+47,2015-04-15Purchase,2015-04-1510:38 am,Wilson Bank Holding Co,,Jordan WillDirector,181,$48.35,"$8,751","18,633(Direct)",View
+48,2015-04-14Purchase,2015-04-1510:36 am,First Financial Bancorp,FFBC,Olszewski Richard EDirector,345,$17.52,"$6,043","11,553(DirectIndirect)",View
+49,2015-04-14Purchase,2015-04-1510:11 am,First Financial Bancorp,FFBC,Meyer Jeffrey DDirector,370,$17.52,"$6,481","33,457(DirectIndirect)",View
+50,2015-04-14Purchase,2015-04-1510:03 am,First Financial Bancorp,FFBC,Kramer William JDirector,146,$17.52,"$2,557","16,534(DirectIndirect)",View
+51,2015-04-13Purchase,2015-04-1509:59 am,Flex Pharma Inc.,FLKS,Westphal Christoph HPresident and CEODirector10% Owner,282,$19.64,"$5,538","3,903,743(IndirectDirect)",View
+52,2015-04-13Sale,2015-04-1509:51 am,Worthington Industries Inc,WOR,"Gilmore Geoffrey GPresident, Worthington Steel",1405,$27.69,"$38,904","48,262(Direct)",View
+53,2015-04-14Purchase,2015-04-1509:41 am,First Financial Bancorp,FFBC,Purkrabek Knust Susan LDirector,260,$17.52,"$4,554","13,326(IndirectDirect)",View
+54,2015-04-14Purchase,2015-04-1508:00 am,Ladenburg Thalmann Financial Services Inc,LTS,Giovanniello JosephSenior Vice President,2000,$3.734,"$7,467","180,013(Direct)",View
+55,2015-04-10Sale,2015-04-149:12 pm,Cutera Inc,CUTR,Connors Kevin PPresident & CEODirector,33596,$13.41,"$450,510","568,709(Direct)",View
+56,2015-04-13Sale,2015-04-149:04 pm,Omnicell Inc,OMCL,Petersmeyer Gary SDirector,670,$36.08,"$24,174","17,025(Direct)",View
+57,2015-04-10Sale,2015-04-149:00 pm,Intercept Pharmaceuticals Inc,ICPT,Veitinger Klaus R DrDirector,391,$272.1,"$106,391","8,754(Direct)",View
+58,2015-04-10Sale,2015-04-148:43 pm,Microsemi Corp,MSCC,Healey William LDirector,1500,$35.89,"$53,835","11,321(Direct)",View
+59,2015-04-13Sale,2015-04-148:41 pm,Zendesk Inc.,ZEN,Mcdermott AdrianSVP of Product Development,9116,$22.73,"$207,181","189,250(Direct)",View
+60,2015-04-13Sale,2015-04-148:40 pm,Zendesk Inc.,ZEN,Price Matthew AdrianSVP of Global Marketing,1917,$22.71,"$43,535","88,167(Direct)",View
+61,2015-04-13Sale,2015-04-148:36 pm,Comscore Inc,SCOR,Brown Michael AndrewChief Technology Officer,400,$52.23,"$20,892","31,423(Direct)",View
+62,2015-04-10Sale,2015-04-148:30 pm,Lemaitre Vascular Inc,LMAT,Lemaitre Cornelia WDirectorOther,6707,$8.424,"$56,499","360,223(DirectIndirect)",View
+63,2015-04-13Purchase,2015-04-148:25 pm,California Water Service Group,CWT,Vera George ADirector,4,$25,$100,"33,206(Direct)",View
+64,2015-04-10Sale,2015-04-148:00 pm,Adamas Pharmaceuticals Inc,ADMS,Mdv Ix LpSeventh Mdv Partners L.L.C.Ninth Mdv Partners L.L.C.Feiber Jonathan DSchoendorf Nancy JMdv Enf Vii (a) L.P.Mdv Enf Vii (b) L.P.Mdv Vii Leaders' Fund L.P.Mdv Vii Lp10% Owner,37078,$18.56,"$688,056","3,772,686(Indirect)",View
+65,2015-04-10Sale,2015-04-147:59 pm,Adamas Pharmaceuticals Inc,ADMS,Ericson William W.Director10% Owner,37078,$18.56,"$688,056","3,772,686(Indirect)",View
+66,2015-04-10Sale,2015-04-147:32 pm,Adamas Pharmaceuticals Inc,ADMS,Went Gregory TChief Executive OfficerDirector10% Owner,14757,$7.155,"$105,582","402,903(IndirectDirect)",View
+67,2015-04-10Sale,2015-04-147:30 pm,Harvard Bioscience Inc,HBIO,Green DavidDirector,80168,$6.607,"$529,694","865,085(IndirectDirect)",View
+68,2015-04-10Sale,2015-04-147:29 pm,Lifelock Inc,LOCK,Cerda ClarissaChief Legal Strategist,3000,$14.41,"$43,230","79,278(Direct)",View
+69,2014-06-03Sale,2015-04-147:28 pm,Newstar Financial Inc.,NEWS,Corsair Capital LLC10% Owner,166557,$13.1,"$2,181,897","9,704,972(Indirect)",View
+70,2015-04-14Sale,2015-04-147:25 pm,Salesforce Com Inc,CRM,Harris ParkerCo-Founder,5000,$66.83,"$334,158","1,081,715(IndirectDirect)",View
+71,2015-04-14Sale,2015-04-147:08 pm,United Therapeutics Corp,UTHR,Jeffs RogerPresident & Co-CEODirector,10000,$185.8,"$1,858,200","120,500(IndirectDirect)",View
+72,2015-04-14Sale,2015-04-147:04 pm,United Therapeutics Corp,UTHR,Zaccardelli DavidEVP & Chief Operating Officer,3250,$185.8,"$603,915","4,403(Direct)",View
+73,2015-04-10Sale,2015-04-147:03 pm,Sangamo Biosciences Inc,SGMO,Wolff Henry WardExec VP & CFO,12000,$15.31,"$183,771","214,849(Direct)",View
+74,2015-04-10Sale,2015-04-146:54 pm,Dexcom Inc,DXCM,"Moy JeffreySVP, Operations",20766,$66.63,"$1,383,560","163,811(DirectIndirect)",View
+75,2015-04-13Sale,2015-04-146:53 pm,Rubicon Project Inc,RUBI,Addante FrankSee remarksDirector,38999,$16.78,"$654,403","2,652,238(IndirectDirect)",View
+76,2015-04-10Sale,2015-04-146:51 pm,Coresite Realty Corp,COR,Ray Thomas M.President and CEODirector,5318,$50.6,"$269,091","354,758(IndirectDirect)",View
+77,2015-04-14Sale,2015-04-146:51 pm,Anixter International Inc,AXE,Berardesca GiulioExecutive VP - Wire & Cable,3000,$76.43,"$229,304","16,128(Direct)",View
+78,2015-04-10Sale,2015-04-146:50 pm,Pacira Pharmaceuticals Inc.,PCRX,Hastings Paul JDirector,2500,$88,"$220,000","5,000(Direct)",View
+79,2015-04-10Sale,2015-04-146:46 pm,Flextronics International Ltd,FLEX,Mcnamara Michael MChief Executive OfficerDirector,1150405,$12.61,"$14,508,022","2,508,810(Direct)",View
+80,2015-04-13Sale,2015-04-146:44 pm,Crossroads Systems Inc,CRDS,Bianchi Brian JosephCHIEF OPERATING OFFICER,5000,$2.401,"$12,004","128,544(Direct)",View
+81,2015-04-13Sale,2015-04-146:34 pm,2u Inc.,TWOU,Kenigsberg JamesChief Technology Officer,7674,$25.06,"$192,337","49,199(Direct)",View
+82,2015-04-13Sale,2015-04-146:20 pm,Ciber Inc,CBR,Mezger Christian MCFO,15478,$3.908,"$60,480","129,099(Direct)",View
+83,2015-04-10Purchase,2015-04-146:02 pm,Biglari Holdings Inc,BH,Biglari SardarLion Fund L.P.Biglari Capital CORP.Chairman and CEODirector10% Owner,4908,$414,"$2,031,698","359,108(DirectIndirect)",View
+84,2015-04-10Purchase,2015-04-146:01 pm,Viscount Systems Inc,VSYS,Raefield Dennis RDirector,5000,$0.0397,$199,"402,890(Direct)",View
+85,2015-04-10Sale,2015-04-145:54 pm,Houghton Mifflin Harcourt Co,HMHC,Bayers William FrederickSee remarks.,30000,$24.03,"$721,000","503,870(Direct)",View
+86,2015-04-10Sale,2015-04-145:44 pm,Qualys Inc,QLYS,Mccauley Donald CChief Financial Officer,4499,$54.04,"$243,111",0(Direct),View
+87,2015-04-10Sale,2015-04-145:36 pm,Seagate Technology Plc,STX,"Mosley William DPresident, Ops and Technology",58581,$55.51,"$3,251,685","127,025(Direct)",View
+88,2015-04-13Sale,2015-04-145:30 pm,Mallinckrodt Plc,MNK,Bailey Don MDirector,40000,$127.6,"$5,104,283","179,607(Direct)",View
+89,2015-04-14Sale,2015-04-145:29 pm,Eastman Kodak Co,KODK,Bluemountain Capital Management LLCBluemountain Long/short Credit & Distressed Reflection Fund A Sub Fund Of Aai Bluemountain Fund Plc10% Owner,342942,$20.56,"$7,050,887","7,449,406(DirectIndirect)",View
+90,2015-04-10Sale,2015-04-145:28 pm,Verint Systems Inc,VRNT,Bodner DanPresident & CEODirector,24999,$62.92,"$1,572,937","525,978(Direct)",View
+91,2015-04-10Sale,2015-04-145:27 pm,Verint Systems Inc,VRNT,Fante PeterChief Legal Officer & CCO,15091,$62.85,"$948,398","33,968(Direct)",View
+92,2015-04-14Purchase,2015-04-145:26 pm,Carbylan Therapeutics Inc.,CBYL,Interwest Management Partners Ix LLCInterwest Partners Ix LpGianos Philip TOronsky Arnold LKliman Gilbert HHolmes W StephenKjellson Nina SPepper Douglas ACleveland Bruce ANasr Khaled10% Owner,810000,$5,"$4,050,000","4,619,196(Indirect)",View
+93,2015-04-10Sale,2015-04-145:25 pm,Verint Systems Inc,VRNT,"Moriah ElanPresident, EIS & VIS",6083,$62.92,"$382,742","58,222(Direct)",View
+94,2015-04-10Sale,2015-04-145:24 pm,Verint Systems Inc,VRNT,Robinson DouglasChief Financial Officer,11640,$62.75,"$730,388","132,766(Direct)",View
+95,2015-04-14Purchase,2015-04-145:24 pm,Carbylan Therapeutics Inc.,CBYL,Acmp Iv LLCAcp Iv L.P.Janney Daniel10% Owner,877500,$5,"$4,387,500","4,343,550(Indirect)",View
+96,2015-04-14Purchase,2015-04-145:22 pm,Carbylan Therapeutics Inc.,CBYL,Nohra Guy PDirector,877500,$5,"$4,387,500","4,343,550(Indirect)",View
+97,2015-04-14Purchase,2015-04-145:22 pm,Carbylan Therapeutics Inc.,CBYL,Cha AlbertDirector,1012500,$5,"$5,062,500","4,204,564(Indirect)",View
+98,2015-04-10Purchase,2015-04-145:20 pm,Key Technology Inc,KTEC,M3c Holdings LLC10% Owner,11401,$13,"$148,168","99,440(Direct)",View
+99,2015-04-10Sale,2015-04-145:20 pm,Carmax Inc,KMX,"Wyatt Natalie LVP, Controller & PAO",6975,$73.8,"$514,755","16,670(Direct)",View
+100,2015-04-14Purchase,2015-04-145:19 pm,Carbylan Therapeutics Inc.,CBYL,Vivo Ventures Vi LLCVivo Ventures Fund Vi L.P.Vivo Ventures Vi Affiilates Fund L.P.10% Owner,1012500,$5,"$5,062,500","4,204,564(Indirect)",View
+101,2015-04-13Purchase,2015-04-145:17 pm,Calamos Asset Management Inc.,CLMS,"Calamos John P SrCalamos Family Partners Inc.Chairman, CEO, Global Co-CIODirector",24897,$12.47,"$310,546","3,784,791(Indirect)",View
+102,2015-04-10Sale,2015-04-145:16 pm,Urban Outfitters Inc,URBN,Hollinger CalvinChief Administrative Officer,8699,$44,"$382,756",0(Direct),View
+103,2015-04-13Sale,2015-04-145:12 pm,Regulus Therapeutics Inc.,RGLS,Carter Bruce L ADirector,20000,$17.66,"$353,164","20,000(Direct)",View
+104,2015-04-14Sale,2015-04-145:11 pm,Factset Research Systems Inc,FDS,Laird Joseph E JrDirector,2500,$158,"$395,000",0(Direct),View
+105,2015-04-13Purchase,2015-04-145:11 pm,Agco Corp,AGCO,Srinivasan MallikaTractors & Farm Equipment LtdTafe Motors & Tractors LtdDirector10% Owner,17695,$47.45,"$839,628","8,266,064(IndirectDirect)",View
+106,2015-04-01Sale,2015-04-145:09 pm,Thermon Group Holdings Inc.,THR,Sorrentino Charles ADirector,1000,$24.48,"$24,480","30,510(DirectIndirect)",View
+107,2015-04-10Sale,2015-04-145:08 pm,Proto Labs Inc,PRLB,Tumelty John B.VP/GM & Managing Director-EMEA,21000,$75.07,"$1,576,452","30,000(Direct)",View
+108,2015-04-13Sale,2015-04-145:06 pm,Lions Gate Entertainment Corp,LGF,Rachesky Mark H MdMhr Institutional Partners III LpMhr Institutional Advisors III LLCMhr Fund Management LLCMhr Holdings LLCDirector10% Owner,10000000,$31.6,"$316,000,004","32,436,036(DirectIndirect)",View
+109,2015-04-10Sale,2015-04-145:03 pm,Baltic Trading Ltd,BALT,Apollo Management Holdings Gp LLCApollo Management Holdings L.P.Apollo Capital Management Gp LLCApollo Capital Management L.P.Apollo Principal Holdings II L.P.Apollo Principal Holdings II Gp LLCApollo Value Investment Master Fund L.P.Apollo Value Advisors LpApollo Special Opportunities Managed Account LpApollo Svf Management L.P.10% Owner,879561,$1.42,"$1,249,180","5,349,859(Indirect)",View
+110,2015-04-14Purchase,2015-04-145:00 pm,Roomlinx Inc,RMLX,Depalo Robert P10% Owner,750,$4.6,"$3,450","43,663,976(Direct)",View
+111,2015-04-13Sale,2015-04-144:57 pm,Amtrust Financial Services Inc.,AFSI,"Longo ChristopherEVP, Chief Information Officer",10790,$58.98,"$636,397","283,101(Direct)",View
+112,2015-04-13Sale,2015-04-144:57 pm,Flotek Industries Inc,FTK,Hardy Carla S.Director,40500,$17.03,"$689,565","188,904(IndirectDirect)",View
+113,2015-04-10Sale,2015-04-144:55 pm,Pfsweb Inc,PFSW,Awm Investment Company Inc.10% Owner,3583,$11,"$39,413","2,075,274(Indirect)",View
+114,2015-04-10Sale,2015-04-144:48 pm,Ctpartners Executive Search Inc,CTP,Awm Investment Company Inc.10% Owner,6200,$4.193,"$25,997","958,159(Indirect)",View
+115,2015-04-10Sale,2015-04-144:45 pm,Atlantic Tele Network Inc,ATNI,Benincasa Justin DCFO,40000,$69.02,"$2,760,800","87,380(Direct)",View
+116,2015-04-10Purchase,2015-04-144:37 pm,Tiptree Financial Inc,TIPT,Barnes Michael GeneExecutive ChairmanDirector10% Owner,5902,$6.578,"$38,821","1,168,132(Direct)",View
+117,2015-04-10Sale,2015-04-144:33 pm,Albany Molecular Research Inc,AMRI,D Ambra Thomas E PhdDirector,20000,$18.5,"$370,000","2,607,684(Direct)",View
+118,2015-04-10Sale,2015-04-144:33 pm,Albany Molecular Research Inc,AMRI,D Ambra Constance M10% Owner,20000,$18.5,"$370,000","2,455,818(Direct)",View
+119,2015-04-13Sale,2015-04-144:33 pm,Ipg Photonics Corp,IPGP,Gapontsev Valentin PCEO & Chairman of the BoardDirector10% Owner,500,$100.1,"$50,030","300,431(Direct)",View
+120,2015-04-10Purchase,2015-04-144:32 pm,Insignia Systems Inc,ISIG,Air T Inc10% Owner,5800,$3.006,"$17,434","1,424,884(Direct)",View
+121,2015-04-13Sale,2015-04-144:31 pm,Ipg Photonics Corp,IPGP,Gauthier Henry EDirector,1002,$100.1,"$100,250","16,752(Direct)",View
+122,2015-04-10Sale,2015-04-144:31 pm,Cvent Inc,CVT,Sye Dwayne J.Chief Information Officer,4000,$29,"$115,984","369,842(IndirectDirect)",View
+123,2015-04-10Sale,2015-04-144:30 pm,Cvent Inc,CVT,Quattrone David C.Chief Technology Officer,3000,$28.92,"$86,770","688,277(IndirectDirect)",View
+124,2015-04-10Sale,2015-04-144:28 pm,Cvent Inc,CVT,Ghoorah Charles V.President of Sales & Marketing,3000,$28.92,"$86,750","979,375(DirectIndirect)",View
+125,2015-04-10Sale,2015-04-144:28 pm,Splunk Inc,SPLK,"Schroeder GuidoSVP, Products",10000,$63.6,"$635,986","257,694(Direct)",View
+126,2015-04-10Purchase,2015-04-144:27 pm,Patent Properties Inc.,PPRO,Ellenthal JonathanVice Chairman and CEODirector,1760,$1.25,"$2,200","6,880(Direct)",View
+127,2015-04-13Purchase,2015-04-144:26 pm,Nexpoint Residential Trust Inc.,NXRT,Mcgraner MattSee Remarks,700,$13.84,"$9,688","2,808(IndirectDirect)",View
+128,2015-04-13Purchase,2015-04-144:25 pm,Nexpoint Residential Trust Inc.,NXRT,Goetz MatthewSee Remarks,720,$13.85,"$9,972","2,168(IndirectDirect)",View
+129,2015-04-13Purchase,2015-04-144:24 pm,Nexpoint Residential Trust Inc.,NXRT,Dondero James DHighland Capital Management LpPresident10% Owner,39755,$13.85,"$550,428","1,641,722(DirectIndirect)",View
+130,2015-04-14Sale,2015-04-144:23 pm,Oracle Corp,ORCL,Bingham H RaymondDirector,35000,$42.97,"$1,503,876","35,000(Direct)",View
+131,2015-04-10Sale,2015-04-144:22 pm,Kcg Holdings Inc.,KCG,Schuler StephenDirector,29200,$0,$0,"6,213,454(DirectIndirect)",View
+132,2015-04-09Sale,2015-04-144:21 pm,Reis Inc.,REIS,Lynford LloydPresident & CEODirector10% Owner,8155,$26,"$212,008","1,238,018(Direct)",View
+133,2013-05-06Purchase,2015-04-144:20 pm,Multi-strategy Growth & Income Fund,MSFDX,Miller Ira JDirector,3079,$16.65,"$51,274","6,351(Indirect)",View
+134,2015-04-10Purchase,2015-04-144:20 pm,Patent Properties Inc.,PPRO,Walker Jay SExecutive ChairmanDirector10% Owner,7040,$1.25,"$8,800","2,358,500(IndirectDirect)",View
+135,2015-04-13Sale,2015-04-144:17 pm,Mentor Graphics Corp,MENT,Rhines Walden CCEO and Chairman of the BoardDirector,100000,$24.71,"$2,471,000","320,669(Direct)",View
+136,2015-04-14Sale,2015-04-144:16 pm,Magnegas Corp,MNGA,Huntington ChristopherDirector,1000,$0.775,$775,"113,884(Direct)",View
+137,2015-04-13Sale,2015-04-144:15 pm,Incyte Corp,INCY,"Swain Paula JEVP, Human Resources",16469,$96.29,"$1,585,800","37,552(Direct)",View
+138,2015-04-10Sale,2015-04-144:14 pm,Incyte Corp,INCY,"Wenqing YaoEVP, Discovery Medicinal and P",23000,$95.18,"$2,189,250","49,354(Direct)",View
+139,2015-04-10Sale,2015-04-144:14 pm,Comtech Telecommunications Corp,CMTL,Kantor EdwinDirector,15000,$31.57,"$473,571","30,000(Direct)",View
+140,2015-04-10Sale,2015-04-144:14 pm,Bluebird Bio Inc.,BLUE,Walsh Jeffrey T.Chief Operating Officer,21000,$126.2,"$2,650,454","58,307(Direct)",View
+141,2015-04-14Purchase,2015-04-144:14 pm,Consumers Bancorp Inc,CBKM.OB,Williams Derek GRetail Sales & Operations,8,$18.75,$150,"4,160(Direct)",View
+142,2015-04-09Sale,2015-04-144:13 pm,Magnegas Corp,MNGA,Santilli CarlaDirector10% Owner,39895,$0.7945,"$31,696","4,968,083(Direct)",View
+143,2015-04-13Sale,2015-04-144:11 pm,Boston Beer Co Inc,SAM,Pagano Robert PV.P. of Brand Development,1000,$270,"$270,000","4,928(Direct)",View
+144,2015-04-10Purchase,2015-04-144:10 pm,Cosi Inc,COSI,Plaisance Fund LpJanus Capital Institutional Advisors10% Owner,1757609,$2.16,"$3,796,436","9,405,129(Direct)",View
+145,2015-04-13Sale,2015-04-144:10 pm,Boston Beer Co Inc,SAM,Lim Ai-liV.P. of Human Resources,1333,$269.1,"$358,680","21,207(Direct)",View
+146,2015-04-10Sale,2015-04-144:10 pm,Vantiv Inc.,VNTV,Stiefler Jeffrey EDirector,2271,$39.4,"$89,477","98,440(DirectIndirect)",View
+147,2015-04-13Sale,2015-04-144:09 pm,Boston Beer Co Inc,SAM,Koch C JamesChairmanDirector10% Owner,5000,$267.5,"$1,337,629","78,832(IndirectDirect)",View
+148,2015-04-10Sale,2015-04-144:07 pm,Health Care Reit Inc,HCN,"Herman Charles J JrEVP/Pres, Srs. Hous/Post Acute",1000,$76.9,"$76,900","45,608(IndirectDirect)",View
+149,2015-04-13Sale,2015-04-144:07 pm,Tiffany & Co,TIF,Naggiar Caroline DSENIOR VICE PRESIDENT,12575,$90.19,"$1,134,202","19,098(IndirectDirect)",View
+150,2015-04-10Sale,2015-04-144:06 pm,Energous Corp,WATT,Tamkin Gregory S10% Owner,14437,$9.07,"$130,944","1,849,812(Indirect)",View
+151,2015-04-10Sale,2015-04-144:06 pm,Payment Data Systems Inc,PYDS,Hoch Louis APresident and COODirector10% Owner,1000,$0.38,$380,"38,480,612(Direct)",View
+152,2015-04-13Sale,2015-04-144:01 pm,Monotype Imaging Holdings Inc.,TYPE,Shaw Douglas JDirector,25000,$32.67,"$816,720","157,899(Direct)",View
+153,2015-04-13Sale,2015-04-144:01 pm,Analog Devices Inc,ADI,"Seif Margaret KSVP, Gen Counsel, Secretary",3500,$64.25,"$224,875","13,775(Direct)",View
+154,2015-04-14Purchase,2015-04-144:01 pm,Sino Agro Food Inc.,SIAF,Sandberg Nils-erik EduardDirector,5000,$12.24,"$61,200","238,678(DirectIndirect)",View
