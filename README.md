@@ -1,6 +1,6 @@
 # Privacy vs. Criminality
 
-The following repo contains the research performed by [Nina]() & [Will](https://github.com/WillahScott) on the availability of public criminal records.  
+The following repo contains the research performed by [Nina](https://github.com/kuknina) & [Will](https://github.com/WillahScott) on the availability of public criminal records.  
 
 ## Goal + Summary
 
